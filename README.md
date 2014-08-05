@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test-js
 
 A Quil sketch designed to ... well, that part is up to you.
@@ -15,3 +16,9 @@ Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+=======
+neuron-demos
+============
+
+Demos of how neurons are modelled in Clortex and Hierarchical Temporal Memory
+>>>>>>> 6091fd906e2338ab60a0d084d32408300ff54d41
